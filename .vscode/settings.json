@@ -1,0 +1,6 @@
+{
+  "editor.fontSize": 16,
+  "editor.tabSize": 5,
+  "material-icon-theme.activeIconPack": "react",
+  "workbench.iconTheme": "material-icon-theme"
+}
